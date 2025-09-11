@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../js/demo"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true,
+		"liveServer.settings.multiRootWorkspaceName": "demo"
+	}
+}
